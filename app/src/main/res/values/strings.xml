@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasP6_WorkManager</string>
+    <string-array name="city_list">
+        <item>Sumenep</item>
+        <item>Pamekasan</item>
+        <item>Sampang</item>
+        <item>Bangkalan</item>
+        </string-array>
+</resources>
